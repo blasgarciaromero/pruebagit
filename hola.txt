@@ -1,0 +1,1 @@
+Hola es una prueba de creacion de archivo git, en repositorio local, para su posterior sincronización con el repositorio remoto.
